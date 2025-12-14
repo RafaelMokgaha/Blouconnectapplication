@@ -1,0 +1,9 @@
+{
+  "name": "BlouConnectapprender",
+  "description": "A community-focused chat and social platform for local villages with WeChat-inspired design.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
